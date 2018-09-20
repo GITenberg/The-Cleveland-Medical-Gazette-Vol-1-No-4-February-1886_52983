@@ -1,5 +1,8 @@
 _repo: The-Cleveland-Medical-Gazette-Vol-1-No-4-February-1886_52983
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52983-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '47094'
     url: http://www.gutenberg.org/2009/agents/47094
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52983#The-Cleveland-Medical-Gazette-Vol-1-No-4-February-1886
 gutenberg_issued: '2016-09-04'
 gutenberg_type: Text
 identifiers:
